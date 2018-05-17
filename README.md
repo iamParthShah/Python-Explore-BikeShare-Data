@@ -4,20 +4,20 @@ Python-Explore-BikeShare-Analysis
 
 Table of Contents includes:
 
-Introduction
+1. Introduction
 
-Posing Questions
+2. Posing Questions
 
-Data Collection and Wrangling
+3. Data Collection and Wrangling
 
-3.1 Condensing the Trip Data
+  3.1 Condensing the Trip Data
 
-Exploratory Data Analysis
+4. Exploratory Data Analysis
 
-4.1 Statistics
+  4.1 Statistics
 
-4.2 Visualizations
+  4.2 Visualizations
 
-Performing Your Own Analysis
+5. Performing Your Own Analysis
 
-Conclusions
+6. Conclusions
